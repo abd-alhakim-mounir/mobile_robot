@@ -1,0 +1,2 @@
+spcbot_description:spcbot_gazebo:spcbot_navigation
+-DCATKIN_DEVEL_PREFIX=/home/hakeem/catkin2_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hakeem/catkin2_ws/install -G Unix Makefiles
